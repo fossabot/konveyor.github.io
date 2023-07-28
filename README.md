@@ -1,4 +1,6 @@
 # Overview
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fkonveyor.github.io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fkonveyor.github.io?ref=badge_shield)
+
 This repository contains documentation for projects under [Konveyor.io](http://konveyor.io)
 * Leverages [Hugo](https://gohugo.io/)
 * Is served at: [https://konveyor.github.io/](https://konveyor.github.io/)
@@ -48,3 +50,7 @@ If you forgot to do this and have not yet pushed your changes to the remote
 repository, you can amend your commit with the sign-off by running 
 
     git commit --amend -s 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fkonveyor.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fkonveyor.github.io?ref=badge_large)
